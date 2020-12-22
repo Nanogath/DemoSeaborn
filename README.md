@@ -4,20 +4,20 @@ Présentation des fonctions de la librairie seaborn avec 2 jeux de données.
 
 ### Démo 
 
-   - 1 Démonstration avec le set de données Promo Simplon
-        Displot
-        Countplot
-        Lmplot
+   1- Démonstration avec le set de données Promo Simplon :
+   - Displot
+   - Countplot
+   - Lmplot
         
-   - 2 Démonstration avec le set de données Pokemons
-        Boxplot
-        Violin
-        Swarmplot
-        Kdeplot
+   2- Démonstration avec le set de données Pokemons :
+   - Boxplot
+   - Violin
+   - Swarmplot
+   - Kdeplot
     
 ### Pré-requis
 
-Pour la réalisation de notre étude nous utiliserons les programmes suivants :
+Pour la réalisation de notre démonstration nous utiliserons les programmes suivants :
 
    - Python 3.8.6
    - Import des Bibliothèques Python suivantes dans l'environnement virtuel de travail sous GitBash:    
